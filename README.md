@@ -25,4 +25,5 @@ If done correctly, the program should say, "The distance between the two points 
 
 ## Author
 Name: Pastor, Glennielle Jansen C.
+
 Section: 8-Mahogany
